@@ -2,6 +2,10 @@
 ## Overview
 This project implements a Product Sales and Inventory Management System using SQL stored procedures. It ensures real-time stock availability checks, transaction-safe sales processing, and automatic inventory updates. The system uses ACID-compliant transactions, input validation, and error handling to maintain data consistency during sales operations.
 
+## Database Tables
+- Products
+- sales
+
 ## Key Features:
 - Stock availability validation before sale
 - Transaction control using COMMIT and ROLLBACK
@@ -9,6 +13,6 @@ This project implements a Product Sales and Inventory Management System using SQ
 - Error handling with SIGNAL
 - Clean and modular stored procedure design
 
-### Database: MySQL
-### concepts: Stored Procedures, Transactions, Error Handling
-### Use Case: Sales & Inventory Management
+**Database:** MySQL
+**concepts:** Stored Procedures, Transactions, Error Handling
+**Use Case:** Sales & Inventory Management
