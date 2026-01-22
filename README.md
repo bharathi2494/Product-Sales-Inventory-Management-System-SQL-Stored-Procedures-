@@ -13,6 +13,7 @@ This project implements a Product Sales and Inventory Management System using SQ
 - Error handling with SIGNAL
 - Clean and modular stored procedure design
 
-**Database:** MySQL
-**concepts:** Stored Procedures, Transactions, Error Handling
-**Use Case:** Sales & Inventory Management
+**Database:** MySQL  
+**concepts:** Stored Procedures, Transactions, Error Handling  
+**Use Case:** Sales & Inventory Management  
+
